@@ -1,0 +1,15 @@
+{
+    "name": "satellasoft/mini-framework-php",
+    "authors": [
+        {
+            "name": "Gunnar Correa",
+            "email": "gunnercorrea@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    }
+}
