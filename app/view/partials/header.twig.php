@@ -11,7 +11,7 @@
                     <a class="nav-link" href="{{BASE}}">Home <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="{{BASE}}cep/">CEP</a>
+                    <a class="nav-link" href="{{BASE}}produto/">Produto</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="{{BASE}}quem-somos/">Quem Somos</a>
