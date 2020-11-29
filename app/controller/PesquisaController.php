@@ -7,8 +7,13 @@ use app\classes\Input;
 
 class PesquisaController extends Controller
 {
-    public function pesquisar(){
-    
-        dd(Input::get('pes'));
+    public function pesquisar()
+    {
+
+        $param = Input::get('pes');
+
+        $this->load('pesquisa/main', [
+            'termo' => $param
+        ]);
     }
 }
