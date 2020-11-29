@@ -20,9 +20,9 @@
                     <a class="nav-link" href="{{BASE}}contato/">Contato</a>
                 </li>
             </ul>
-            <form class="form-inline my-2 my-lg-0">
-                <input class="form-control mr-sm-2" type="text" placeholder="Search">
-                <button class="btn btn-info my-2 my-sm-0" type="submit">Buscar</button>
+            <form class="form-inline my-2 my-lg-0" method="get" action="{{BASE}}pesquisa/">
+                <input class="form-control mr-sm-2" type="text" placeholder="Pesquisar" name="pes">
+                <button class="btn btn-info my-2 my-sm-0" type="submit">Busc    ar</button>
             </form>
         </div>
     </nav>
