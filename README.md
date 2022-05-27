@@ -1,9 +1,9 @@
 Mini Framework MVC com PHP
 
 
-#Introdução
+# Introdução
 
-#Instalação
+# Instalação
 
 Crie uma nova pasta em seu servidor, em seguida, clone o projeto com o código abaixo no terminal.
 
@@ -19,14 +19,14 @@ Após colar o projeto, será necessário instalar as dependências do Composer, 
 composer update
 ```
 
-#Configuração
+# Configuração
 
-#Rotas
+# Rotas
 
-#Model
+# Model
 
-#Controller
+# Controller
 
-#View
+# View
 
 Arquivos das aulas de PHP
